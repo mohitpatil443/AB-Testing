@@ -8,4 +8,11 @@ The focus of the project is mainly on AB Testing which is really important when 
 All the 3 results are analysed and then we arrive at a conclusion.
 
 ## TAKEAWAYS :
-- The concept of null hypothesis and alternative hypo
+- The concept of null hypothesis and alternative hypothesis.
+- The concept of p value and its associated predictions.
+- The concept of Sampling distribution and its importance.
+- Interpretation of the statistics that are obtained after analysis.
+- Testing the same question with different approaches.
+
+## MY EXPERIENCE :
+The experience with this project was quite significant when it comes to backing up a decision with some statistics.The predictions are quite significant and give a clear insight whether a feature must be launched or not as a measure to drive sales for a particular business.The outcomes of the project really felt like adding some value for the business or organization.
